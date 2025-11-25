@@ -1,2 +1,2 @@
-def metodo:
+def metodo():
   print("assssa")
